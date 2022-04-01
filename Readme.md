@@ -15,16 +15,16 @@
 
 <h4>Admin.</h4>
 <p>Allows creating Bootcamps, cohorts, and students, also editing and adding competences.</p>
-<img src="http://drive.google.com/uc?export=view&id=1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg">
+<img src="http://drive.google.com/uc?export=view&id=1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg" width="750px" height="450px>
 
 <h4>Teacher.</h4>
 <p>Allows editing and rating projects, workbooks and queries of others students, and creating announcements.</p>
-<img src="http://drive.google.com/uc?export=1al2LCSfTPtakYNTK7EFr9yr1HaSyDKv-">
+<img src="http://drive.google.com/uc?export=1al2LCSfTPtakYNTK7EFr9yr1HaSyDKv-" width="750px" height="450px>
 
 
 <h4>Student.</h4>
 <p>Allows delivering projects, workbooks, and queries, also reading announcements.</p>
-<img src="http://drive.google.com/uc?export=view&id=12eoQR8cI1sWvvwP6kiDmDtE5Z6jgUrHt">
+<img src="http://drive.google.com/uc?export=view&id=12eoQR8cI1sWvvwP6kiDmDtE5Z6jgUrHt" width="750px" height="450px>
 
 <h3>TOOLS.</h3>
 <h4>Frontend</h4>
