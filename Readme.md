@@ -11,7 +11,7 @@
   
 <h4>SuperAdmin.</h4>
 <p>Allows creating, editing and deleting administrators.</p>
-<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez" width="250px" height="500px">
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez" width="750px" height="900px">
 
 <h4>Admin.</h4>
 <p>Allows creating Bootcamps, cohorts, and students, also editing and adding competences.</p>
