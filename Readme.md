@@ -10,7 +10,7 @@
 <p>The access is posible by four different accounts:</p>
   
 <h4>SuperAdmin.</h4>
-<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez" width: "150px">
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez" width: "50px">
 <p>Allows creating, editing and deleting administrators.</p>
 
 <h4>Admin.</h4>
