@@ -2,7 +2,7 @@
 
 <h1 align="center">PROYECT AGORA 2.0</h1>
 
-<img src="https://drive.google.com/uc?export=download&id=1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1">
+<img src="http://drive.google.com/uc?export=view&id=1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1">
 
 https://drive.google.com/file/d/1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1/view?usp=sharing
 
