@@ -10,16 +10,20 @@
 <p>The access is posible by four different accounts:</p>
   
 <h4>SuperAdmin.</h4>
-<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez" width: "50px">
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
 <p>Allows creating, editing and deleting administrators.</p>
 
 <h4>Admin.</h4>
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
 <p>Allows creating Bootcamps, cohorts, and students, also editing and adding competences.</p>
 
 <h4>Teacher.</h4>
+<img src="http://drive.google.com/uc?export=1al2LCSfTPtakYNTK7EFr9yr1HaSyDKv-">
 <p>Allows editing and rating projects, workbooks and queries of others students, and creating announcements.</p>
 
+
 <h4>Student.</h4>
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
 <p>Allows delivering projects, workbooks, and queries, also reading announcements.</p>
 
 <h3>TOOLS.</h3>
