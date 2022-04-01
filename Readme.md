@@ -25,6 +25,9 @@
 <h4>Frontend</h4>
 <p>- Html.</br>- Css modules.</br>- Node.js.
 
+<h4>Backend</h4>
+<p>- Html.</br>- Css modules.</br>- Node.js.
+
 
 
 
