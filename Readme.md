@@ -53,7 +53,7 @@
            - Web-vitals.</br>
            
 <h3>INSTRUCTIONS.</h3>
-<p>- Run the file backend: .../Legacy-LMS-Agora/backend$ npm start.</br>
+<p>Before run the page locally, is neccessary:</br>- Run the file backend: .../Legacy-LMS-Agora/backend$ npm start.</br>
 - Run the file frontend: .../Legacy-LMS-Agora/frontend$ npm start.
 
 <h3>DEPLOYMENT.</h3>
