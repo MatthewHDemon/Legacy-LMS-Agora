@@ -15,6 +15,14 @@
 <h4>Admin.</h4>
 <p>Allows creating Bootcamps, cohorts, and students, also editing and adding competences.</p>
 
+<h4>Teacher.</h4>
+<p>Allows editing and rating projects, workbooks and queries of others students, and creating announcements.</p>
+
+<h4>Student.</h4>
+<p>Allows delivering projects, workbooks, and queries, also reading announcements.</p>
+
+
+
 
 
 
