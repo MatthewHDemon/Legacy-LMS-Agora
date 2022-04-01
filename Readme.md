@@ -10,11 +10,11 @@
 <p>The access is posible by four different accounts:</p>
   
 <h4>SuperAdmin.</h4>
-<img src="http://drive.google.com/uc?export=view&id=1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg">
-<p>Allows creating, editing and deleting administrators.</p>
-
-<h4>Admin.</h4>
 <img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
+<p>Allows creating, editing and deleting administrators.</p>
+1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg
+<h4>Admin.</h4>
+<img src="http://drive.google.com/uc?export=view&id=1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg">
 <p>Allows creating Bootcamps, cohorts, and students, also editing and adding competences.</p>
 
 <h4>Teacher.</h4>
