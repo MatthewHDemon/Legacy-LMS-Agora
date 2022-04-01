@@ -23,7 +23,7 @@
 
 
 <h4>Student.</h4>
-<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
+<img src="http://drive.google.com/uc?export=view&id=1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg">
 <p>Allows delivering projects, workbooks, and queries, also reading announcements.</p>
 
 <h3>TOOLS.</h3>
