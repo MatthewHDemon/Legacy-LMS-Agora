@@ -50,6 +50,24 @@
            - Sweetalert2.</br>
            - Swiper.</br>
            - Web-vitals.</br>
+           
+<h3>INSTRUCTIONS.</h3>
+<p>- Run the file backend: .../Legacy-LMS-Agora/backend$ npm start.</br>
+- Run the file frontend: .../Legacy-LMS-Agora/frontend$ npm start.
+
+<h3>DEPLOYMENT.</h3>
+<p>This page was deployed by DigitalOcean.</p>
+
+<h3>AUTHORS</h3>
+<p> - Scrum master - Miguel Angel Moreno López.</br>
+   - Technical leader - Angie Ladino.</br>
+   - Frontend leader - Laura Valentina Rippe.</br>
+   - Frontend support - Estefani Adelaida Azocar Parra.</br>
+   - Frontend support - Daniel Mateo Patarroyo Molina.</br>
+   - Backend leader - Juan Sebastian Murcia Cuevas.</br>
+   - Backend support - Santiago Gustavo López Bernal.</br>
+   - Backend support - Luisa Fernanda Palacios Pérez.</br>
+
 
 
 
