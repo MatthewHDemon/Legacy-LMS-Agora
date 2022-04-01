@@ -2,7 +2,7 @@
 
 <h1 align="center">PROYECT AGORA 2.0</h1>
 
-<img src="https://drive.google.com/file/d/1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1/view">
+<img src="https://drive.google.com/uc?export=download&id=1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1">
 
 <p>Webpage at the request by the educational organization Educamás. It allows centralizing the project's creation and revision, the competence's evaluation associated to each project and the notifications.</p>
 
