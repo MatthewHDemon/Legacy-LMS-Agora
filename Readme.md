@@ -33,6 +33,26 @@
 <h4>Backend</h4>
 <p>- MongoDB.</br>- DigitalOcean.</br>- Express.</br>- Postman.
 
+<h3>DEPENDENCES.</h3>
+<p>- @pathofdev/react-tag-input.
+           - @testing-library/jest-dom.</br>
+           - @testing-library/react.</br>
+           - @testing-library/user-event.</br>
+           - Axios.</br>
+           - Bootstrap.</br>
+           - React.</br>
+           - React-bootstrap.</br>
+           - React-dom.</br>
+           - React-icons.</br>
+           - React-redux.</br>
+           - React-router-dom.</br>
+           - React-scripts.</br>
+           - Sweetalert2.</br>
+           - Swiper.</br>
+           - Web-vitals.</br>
+
+
+
 
 
 
