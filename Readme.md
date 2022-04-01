@@ -24,7 +24,7 @@
 
 <h4>Student.</h4>
 <p>Allows delivering projects, workbooks, and queries, also reading announcements.</p>
-<img src="http://drive.google.com/uc?export=view&id=1KQC5e298WV6rre7nl2hB5KgnN_gku7Lg">
+<img src="http://drive.google.com/uc?export=view&id=12eoQR8cI1sWvvwP6kiDmDtE5Z6jgUrHt">
 
 <h3>TOOLS.</h3>
 <h4>Frontend</h4>
