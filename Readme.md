@@ -34,7 +34,7 @@
 <p>- MongoDB.</br>- DigitalOcean.</br>- Express.</br>- Postman.
 
 <h3>DEPENDENCES.</h3>
-<p>- @pathofdev/react-tag-input.
+<p>- @pathofdev/react-tag-input.</br>
            - @testing-library/jest-dom.</br>
            - @testing-library/react.</br>
            - @testing-library/user-event.</br>
