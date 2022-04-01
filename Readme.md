@@ -21,12 +21,10 @@
 <h4>Student.</h4>
 <p>Allows delivering projects, workbooks, and queries, also reading announcements.</p>
 
-<h4>TOOLS.</h4>
-<p>Frontend.
-       - Html.
-       - Css modules.
-       - Node.js.
-</p
+<h3>TOOLS.</h3>
+<h4>Frontend</h4>
+<p>- Html.</br>- Css modules.</br>- Node.js.
+
 
 
 
