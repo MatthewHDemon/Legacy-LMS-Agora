@@ -4,14 +4,13 @@
 
 <img src="http://drive.google.com/uc?export=view&id=1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1">
 
-https://drive.google.com/file/d/1VfOr1NTS5OZ4CkLkakPsUaK0OAAlN5Y1/view?usp=sharing
-
 <p>Webpage at the request by the educational organization Educamás. It allows centralizing the project's creation and revision, the competence's evaluation associated to each project and the notifications.</p>
 
 <h3>LOGIN</h3>
 <p>The access is posible by four different accounts:</p>
   
 <h4>SuperAdmin.</h4>
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez" height="50%">
 <p>Allows creating, editing and deleting administrators.</p>
 
 <h4>Admin.</h4>
