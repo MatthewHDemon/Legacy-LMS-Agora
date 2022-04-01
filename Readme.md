@@ -4,7 +4,9 @@
 
 <img src="https://drive.google.com/drive/u/0/folders/1XBsnNOEjdtjgR1rGKKQmYHQdhIQTURzb">
 
-<p color"Green">Webpage at the request by the educational organization Educamás. It allows centralizing the project's creation and revision, the competence's evaluation associated to each project and the notifications.</p>
+<p>Webpage at the request by the educational organization Educamás. It allows centralizing the project's creation and revision, the competence's evaluation associated to each project and the notifications.</p>
+
+<h3>LOGIN</h3>
 
 
 
