@@ -10,8 +10,8 @@
 <p>The access is posible by four different accounts:</p>
   
 <h4>SuperAdmin.</h4>
-<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
 <p>Allows creating, editing and deleting administrators.</p>
+<img src="http://drive.google.com/uc?export=view&id=16sfgi5NHPjy_AeNHUKfoo8F9xE0S2cez">
 
 <h4>Admin.</h4>
 <p>Allows creating Bootcamps, cohorts, and students, also editing and adding competences.</p>
@@ -31,7 +31,7 @@
 <p>- Html.</br>- Css modules.</br>- Node.js.
 
 <h4>Backend</h4>
-<p>- Html.</br>- Css modules.</br>- Node.js.
+<p>- MongoDB.</br>- DigitalOcean.</br>- Express.</br>- Postman.
 
 
 
